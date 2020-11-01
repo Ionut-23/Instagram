@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Perfil Instagram</string>
+    <string name="gabriel">Gabriel</string>
+    <string name="publicaciones">publicaciones</string>
+    <string name="seguidores">seguidores</string>
+    <string name="seguidos">seguidos</string>
+    <string name="seguir">Seguir</string>
+    <string name="v">▼</string>
+    <string name="texto">☢Among Us</string>
+    <string name="traducir">VER TRADUCCIÓN</string>
+    <string name="llamar">Llamar</string>
+    <string name="texto2">Nave THE SKELD \n•Europa</string>
+    <string name="texto3">#Soy el Impostor</string>
+    <string name="num1">420</string>
+    <string name="num2">2M</string>
+    <string name="num3">3.2 mil</string>
+</resources>
